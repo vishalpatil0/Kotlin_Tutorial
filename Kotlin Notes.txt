@@ -1,0 +1,28 @@
+1. Kotlin can be use for client and for server.
+    For client it is mostly used for android developement.
+
+2. Kotlin is staticly typed language.
+̇
+3. Type inference :
+    -> Feature of kotlin : if you directly intilized the variable with value while decalring it then you don't need declare the data type.
+
+4. Data Types:
+    a. var & val used to declare the variable name.
+    b. Variable which is declared using 'val' is basically a constant in kotlin.
+
+5. Collections:
+    a. Collections in kotlin are immutable.
+    b. but mutableListOf can make them mutable
+
+6. Nullability
+    a. By putting ? after the data type you can get sure about the null type variable
+
+7. If else
+    a.If else in kotlin return the last statment of their blocks
+
+8. Switch case
+    a. In kotlin when is the switch case
+    b. just like if-else blocks in when return the last statment
+
+9. "Unit" is nothing in kotlin (void in java)
+    "Any" is like object class in java. 
